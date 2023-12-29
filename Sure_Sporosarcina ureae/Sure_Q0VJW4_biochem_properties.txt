@@ -1,0 +1,10 @@
+symmetry group:   p4
+a = 14.0nm   (calculated using ab initio models)
+
+lattice constant calculated as the average of the following values:
+14.075nm, 14.075nm, 13.987nm, 13.941nm
+
+area of unit cell:   197nm^2
+molecules / unit cell:   4
+sequence length (monomer, without n-term and c-term):   1068 residues
+residues per nm^2:   21.7

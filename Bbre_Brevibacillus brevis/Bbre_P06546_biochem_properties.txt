@@ -1,0 +1,10 @@
+symmetry group:   p6
+a = 17.0nm   (calculated using ab initio models)
+
+lattice constant calculated as the average of the following values:
+17.017nm, 17.008nm, 17.02nm, 17.006nm, 17.004nm, 16.999nm
+
+area of unit cell:   251nm^2
+molecules / unit cell:   6
+sequence length (monomer, without n-term and c-term):   1051 residues
+residues per nm^2:   25.2
